@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Maikuhl
-- 👀 I’m interested in me
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Undergraduate student in SUTD, interested in Machine Learning and Data Science!
 
-<!---
-Maikuhl/Maikuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Email (preferred): michael_hoon@mymail.sutd.edu.sg
+
+🐱 Cat obsession
