@@ -57,7 +57,8 @@
    <!-- Clojure -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" alt="Clojure"  width="40" height="40"/></a>
    <!-- LaTeX -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex.eps" alt="LaTeX"  width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="LaTeX"  width="40" height="40"/></a>
+   <img src="" alt="LaTeX"  width="40" height="40"/></a>
    <!-- Markdown -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown"  width="40" height="40"/></a>
    <!-- Anaconda -->
