@@ -31,11 +31,11 @@
    <!-- Python -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- Numpy -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
    <!-- Pandas -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/></a>
    <!-- PyTorch -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
    <!-- OpenCV -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
    <!-- R -->
@@ -57,7 +57,7 @@
    <!-- Clojure -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" alt="Clojure"  width="40" height="40"/></a>
    <!-- LaTeX -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX"  width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex.eps" alt="LaTeX"  width="40" height="40"/></a>
    <!-- Markdown -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown"  width="40" height="40"/></a>
    <!-- Anaconda -->
