@@ -3,7 +3,9 @@
 <h3 align="center"><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=81A1C1&random=false&width=500&lines=Michael+Hoon;Data+Science%2C+Natural+Language+Processing" alt="Typing SVG" /></a>
 </h3>
+
 ---
+
 <h3>🔎 About me :</h3>
 
 - 🔭 I’m currently working on Retrieval Augmented Generation
