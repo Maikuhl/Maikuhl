@@ -18,6 +18,14 @@
 - 📫 Reach me at: michael_hoon@mymail.sutd.edu.sg
 ---
 
+<h3>✉️ Connect with me :</h3>
+<p>
+   <a href="www.linkedin.com/in/michaelhoon" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://github.com/michael-hoon" ><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+</p>
+
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&include_all_commits=true" />
 </a>
