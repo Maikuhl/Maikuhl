@@ -40,6 +40,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
    <!-- PyTorch -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+   <!-- TensorFlow -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
    <!-- OpenCV -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
    <!-- R -->
@@ -78,16 +80,12 @@
 
 <h3>🔥 Statistics: </h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord" />
-</a>
+<div align="center">  
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117" />
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117" />
 
-<a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=michael-hoon&theme=nord" alt="GitHub Streak" />
-</a>
 
-
+</div>
