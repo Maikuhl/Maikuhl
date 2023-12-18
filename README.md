@@ -1,3 +1,10 @@
+### Hi 👋, I'm 
+
+<h3 align="center"><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=81A1C1&random=false&width=435&lines=Michael+Hoon;Data+Science%2C+NLP" alt="Typing SVG" /></a>
+</h3>
+
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif" width="800"/>
 </div>
