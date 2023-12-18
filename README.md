@@ -40,8 +40,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/></a>
    <!-- R -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
-   <!-- SQLite -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="40" height="40"/></a>
+   <!-- mySQL -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL"  width="40" height="40"/></a>
    <!-- Html -->
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
     <!-- CSS -->
