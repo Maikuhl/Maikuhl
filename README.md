@@ -81,11 +81,7 @@
 <h3>🔥 Statistics: </h3>
 
 <div align="center">  
-
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117&hide_border=true"/>
-  
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117&hide_border=true"/>
-
-  <img align="center" src="https://streak-stats.demolab.com?user=michael-hoon&theme=nord&bg_color=0d1117" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=michael-hoon&hide_border=true&background=EBEBEB00&stroke=5acbe9&ring=5acbe9&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5acbe9"/>
 </div>
