@@ -82,10 +82,10 @@
 
 <div align="center">  
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117"/>
   
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117"/>
 
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=michael-hoon&theme=nord" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=michael-hoon&theme=nord" alt="GitHub Streak"/>
 
 </div>
