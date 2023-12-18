@@ -17,7 +17,7 @@
 - 🐱 Cat obsessed
 - 📫 Reach me at: michael_hoon@mymail.sutd.edu.sg
 <p>
-   <a href="https://www.michael-hoon.github.io" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+   <a href="https://michael-hoon.github.io/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
