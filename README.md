@@ -17,13 +17,14 @@
 - 🐱 Cat obsessed
 - 📫 Reach me at: michael_hoon@mymail.sutd.edu.sg
 <p>
-   <a href="www.michael-hoon.github.io" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+   <a href="https://www.michael-hoon.github.io" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
+
 ---
 
 <h3>✉️ Connect with me :</h3>
 <p>
-   <a href="www.linkedin.com/in/michaelhoon" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/michaelhoon" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://github.com/michael-hoon" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 </p>
 
