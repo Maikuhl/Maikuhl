@@ -67,7 +67,7 @@
    <!-- Markdown -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown"  width="40" height="40"/></a>
    <!-- Anaconda -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda"  width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda"  width="40" height="40"/></a>
    <!-- Kubernetes -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes"  width="40" height="40"/></a>
    <!-- Docker -->
