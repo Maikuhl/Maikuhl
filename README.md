@@ -69,7 +69,7 @@
    <!-- Anaconda -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda"  width="40" height="40"/></a>
    <!-- Kubernetes -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes"  width="40" height="40"/></a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"  width="40" height="40"/></a>
    <!-- Docker -->
    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
    <!-- Arduino -->
