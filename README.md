@@ -84,5 +84,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=michael-hoon&show_icons=true&theme=nord&bg_color=0d1117&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-hoon&layout=compact&exclude_repo=Air_Cargo_Forecasting_for_ASEAN&theme=nord&bg_color=0d1117&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=michael-hoon&hide_border=true&background=EBEBEB00&stroke=81A1C1&ring=81A1C1&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=81A1C1"/>
+</div>
+
+<div align="center">
   <a href="https://michael-hoon.github.io/" ><img src="https://komarev.com/ghpvc/?username=michael-hoon&style=for-the-badge&color=81A1C1"/></a>
 </div>
