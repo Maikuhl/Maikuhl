@@ -54,6 +54,8 @@
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- JavaScript -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+   <!-- Astro.js -->
+   <img src="https://astro.js.org/astro.png" alt="Astrojs" width="40" height="40"/></a>
    <!-- Git -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
    <!-- Vs Code -->
