@@ -12,8 +12,8 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on: Retrieval Augmented Generation
-- 🌱 I’m learning: Natural Language Processing
+- 🔭 I’m currently working on: Retrieval Augmented Generation & GenAI Development
+- 🌱 I’m learning: DevOps, Cloud Native Architecture
 - 🐱 Cat obsessed
 - 📫 Reach me at: michael_hoon@mymail.sutd.edu.sg
 <p>
